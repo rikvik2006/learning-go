@@ -1,0 +1,9 @@
+go 1.20
+
+use (
+	./lesson-01/collections
+	./lesson-01/constructs
+	./lesson-01/hello-world
+	./lesson-01/pointers
+	./lesson-01/variables
+)
