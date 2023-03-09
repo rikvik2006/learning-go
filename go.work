@@ -9,4 +9,8 @@ use (
 	./lesson-01/structs
 	./lesson-01/variables
 	./lesson-02/fizzbuzz
+	./lesson-02/roman-numerals
+	./lesson-03/fizzbuzz_test
+	./lesson-03/romannumerals_test
+	./lesson-03/sum
 )
